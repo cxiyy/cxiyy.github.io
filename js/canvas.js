@@ -1,3 +1,8 @@
+/**
+ * @author: cxiyy
+ * find u 
+ * @date: 2020521 - @present
+ */
 let b = document.body;
 let c = document.getElementsByTagName('canvas')[0];
 let a = c.getContext('2d');
